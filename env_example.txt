@@ -1,0 +1,8 @@
+GOOGLE_CLIENT_ID=your_google_client_id
+GOOGLE_CLIENT_SECRET=your_google_client_secret
+SESSION_SECRET=your_secret_key
+PG_USER=your_postgres_user
+PG_HOST=localhost
+PG_DATABASE=your_database_name
+PG_PASSWORD=your_postgres_password
+PG_PORT=5432
